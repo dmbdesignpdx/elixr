@@ -1,0 +1,16 @@
+{
+  "name": "elixr",
+  "version": "0.1.0",
+  "description": "Create a Jekyll project folder with some extra ingredients.",
+  "main": "index.js",
+  "author": "Daniel Blake <daniel@danielblake.design> (http://danielblake.design)",
+  "repository": {
+	"type": "git",
+	"url": "https://github.com/dmbdesignpdx/elixr.git"
+	},
+  "license": "MIT",
+  "files": ["lib/*"],
+  "bin": {
+     "mix": "./index.js"
+  }
+}
